@@ -23,7 +23,7 @@ namespace TicTacToeWinForm
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Hello world!!");
         }
 
         private void buttonClick(object sender, EventArgs e)
